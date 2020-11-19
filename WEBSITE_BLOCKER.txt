@@ -1,0 +1,8 @@
+This website blocker app is workinng perfectly. 
+Only issue is that I did not get the administration permission, rest everything is fine.
+
+The python script is in .pyw form for running it in the background.
+
+Convert it in .py form to edit or view it.
+
+Thank you.
